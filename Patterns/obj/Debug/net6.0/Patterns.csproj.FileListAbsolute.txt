@@ -1,0 +1,15 @@
+C:\Users\Tural\source\repos\Patterns\Patterns\bin\Debug\net6.0\Patterns.exe
+C:\Users\Tural\source\repos\Patterns\Patterns\bin\Debug\net6.0\Patterns.deps.json
+C:\Users\Tural\source\repos\Patterns\Patterns\bin\Debug\net6.0\Patterns.runtimeconfig.json
+C:\Users\Tural\source\repos\Patterns\Patterns\bin\Debug\net6.0\Patterns.dll
+C:\Users\Tural\source\repos\Patterns\Patterns\bin\Debug\net6.0\Patterns.pdb
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.csproj.AssemblyReference.cache
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfo.cs
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.dll
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\refint\Patterns.dll
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.pdb
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\Patterns.genruntimeconfig.cache
+C:\Users\Tural\source\repos\Patterns\Patterns\obj\Debug\net6.0\ref\Patterns.dll
